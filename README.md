@@ -6,5 +6,5 @@ This repository is used to keep qgis animated gif files.
 
 
 <p align="center">
-<img src="plugin_launch.mp4">
+<img src="plugin_launch_v05.gif">
 </p>
